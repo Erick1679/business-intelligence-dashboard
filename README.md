@@ -82,3 +82,7 @@ Erick Machogu
 ## Disclaimer
 
 The dataset is synthetic and intended for educational and portfolio demonstration purposes.
+
+## Live Dashboard
+
+[Launch the Interactive Business Intelligence Dashboard](https://business-intelligence-dashboard-ezx2j4jrjmckjbdvd6uzkz.streamlit.app/)
